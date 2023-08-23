@@ -21,7 +21,7 @@ p = 2*dy - dx;
 
 while(x<=x2)
 {
- putpixel(x1,y1,GREEN);
+ putpixel(x1,y1,BLUE);
  x++;
  if(p<0)
  {
